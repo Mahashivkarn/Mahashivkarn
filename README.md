@@ -1,24 +1,43 @@
-Hi, I'm Dhruv 👋
+Hi, I'm Dhruv Kumar Solanki 👋
 
 🎓 B.Tech CSE student (3rd Semester) | Aspiring AI/ML Developer
 
-I'm currently building my foundations in programming and moving toward Machine Learning and AI. This GitHub is where I log my learning and projects as I go.
+I'm currently strengthening my programming fundamentals while building toward Machine Learning and Artificial Intelligence. This GitHub documents my learning journey, practice, and projects.
 
-🚀 Currently
-Learning Python for AI/ML (advanced concepts)
-Starting Data Structures & Algorithms in C++
-Exploring the basics of Machine Learning
+📚 Currently Learning
+• Advanced Python for AI/ML
+• Data Structures & Algorithms in C++
+• Fundamentals of Machine Learning
 🧠 Skills
+💻 Languages
+• C
+• C++
+• Python
+• HTML
+• CSS
 
-Languages: C, C++, Python, HTML, CSS Learning next: NumPy, Pandas, scikit-learn
+📖 Next Technologies
+• NumPy
+• Pandas
+• Scikit-learn
+• Flask
 
 📌 Featured Repos
 Python-Practice — Python fundamentals to advanced, aimed at AI/ML
 CPP-Practice — Data Structures & Algorithms in C++
 C-Practice — C fundamentals: arrays, pointers
-Frontend-Development — HTML/CSS/JS basics to advanced
+Frontend-Development — HTML & CSS practice (JavaScript coming soon)
 📫 Connect
-LinkedIn: www.linkedin.com/in/dhruv-kumar-solanki-243070384
+LinkedIn: www.linkedin.com/in/dhruv-kumar-solanki
+
 Email: dhruvkumarrajput007@gmail.com
+
+🎯 2026 Goals
+
+• Master DSA in C++
+• Learn Flask & APIs
+• Build AI/ML Projects
+• Participate in SIH 2026
+• Secure an Internship
 
 ⭐️ Open to collaborating on beginner-friendly AI/ML projects!
