@@ -92,7 +92,7 @@ Data Structures & Algorithms practice using C++.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-kumar-solank">
+  <a href="https://www.linkedin.com/in/dhruv-kumar-solanki">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
