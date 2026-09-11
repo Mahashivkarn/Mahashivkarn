@@ -1,97 +1,80 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kumar Solanki</h1>
+# 👋 Hi, I'm Dhruv Kumar Solanki
 
-<h3 align="center">
-B.Tech CSE Student | Aspiring AI/ML Developer
-</h3>
+### 🎓 B.Tech CSE Student | 🤖 Aspiring AI/ML Developer
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="https://github.com/Mahashivkarn">GitHub</a>
-</p>
+I'm currently building my foundations in **Python, C++, DSA and AI/ML**.
+
+I enjoy learning by building projects and documenting my progress on GitHub.
 
 ---
 
-## 👨‍💻 About Me
+## ~/ whoami
 
-🎓 B.Tech CSE student — 3rd Semester
+```bash
+$ cat about.txt
 
+Hi, I'm Dhruv Kumar Solanki.
+
+🎓 B.Tech CSE Student
 🤖 Aspiring AI/ML Developer
+💻 Python & C++ Programmer
+🧠 Currently learning Machine Learning
+📚 Practicing Data Structures & Algorithms
+🚀 Building projects and improving every day
+~/ toolbox
+Languages
 
-🐍 Currently strengthening Python and Machine Learning fundamentals
 
-💻 Practicing Data Structures & Algorithms in C++
 
-🚀 Building projects while documenting my learning journey
 
----
 
-## 🧠 Currently Learning
 
-- 🐍 Advanced Python for AI/ML
-- 💻 Data Structures & Algorithms in C++
-- 🤖 Machine Learning Fundamentals
-- 🌐 Flask & APIs
 
----
 
-## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Tools & Technologies
 
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
 
-## 🚀 Featured Projects
 
-### 🤖 Mahashivkarn AI
-AI-focused project currently under development.
 
-### 🔲 QR Code Generator
-Python-based QR code generator that converts URLs into downloadable QR codes.
 
-### 🐍 Python Practice
-My Python learning journey — from fundamentals toward AI/ML development.
 
-### 💻 C++ DSA Practice
+
+AI / ML
+
+NumPy • Pandas • Scikit-learn • Machine Learning
+
+~/ currently-learning
+Python              ███████████████░░░  Advanced
+C++ / DSA           ████████████░░░░░░  Learning
+Machine Learning    ████████░░░░░░░░░░  Learning
+Flask & APIs        █████░░░░░░░░░░░░░  Exploring
+~/ featured-projects
+
+🔹 Python Practice
+Python fundamentals and problem-solving practice.
+
+🔹 C++ DSA Practice
 Data Structures & Algorithms practice using C++.
 
----
+🔹 QR Code Generator
+A Python project that converts URLs into QR codes.
 
+🔹 AI/ML Projects
+Building projects while learning Machine Learning and Artificial Intelligence.
 
-## 🎯 2026 Goals
-
-- [ ] Master DSA in C++
-- [ ] Build strong AI/ML fundamentals
-- [ ] Build multiple AI/ML projects
-- [ ] Learn Flask & APIs
-- [ ] Participate in SIH 2026
-- [ ] Secure an internship
-
----
-
-## 📫 Connect With Me
-
+~/ github-stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahashivkarn&show_icons=true&theme=dark&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahashivkarn&layout=compact&theme=dark&hide_border=true" height="180"/> </p>
+~/ contribution-streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Mahashivkarn&theme=dark&hide_border=true"/> </p>
+~/ the-numbers
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
 </p>
-
----
-
+~/ connect
+<p align="center"> <a href="https://www.linkedin.com/in/dhruv-kumar-solanki/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:dhruvkumarrajput007@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p>
 <p align="center">
-  <b>🚀 Learning. Building. Improving.</b>
-</p>
+⚡ Building. Learning. Improving.
+</p> ```
