@@ -1,17 +1,28 @@
-<img src="photo-reveal.svg" width="220" align="right" alt="Dhruv Solanki"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Dhruv Kumar Solanki</h1>
+<img src="photo-reveal.svg" width="260" alt="Dhruv Solanki" />
 
+# Hi 👋, I'm Dhruv Kumar Solanki
 
+### B.Tech CSE Student &nbsp;|&nbsp; Aspiring AI/ML Developer
 
-<h3 align="center">
-B.Tech CSE Student | Aspiring AI/ML Developer
-</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-kumar-solanki)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahashivkarn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvkumarrajput007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solanki_d.hruv009_)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-kumar-solanki">LinkedIn</a> •
-  <a href="https://github.com/Mahashivkarn">GitHub</a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Mahashivkarn&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+```bash
+~/dhruv $ cat about.txt
+```
+> B.Tech CSE student sharpening Python, C++ and DSA fundamentals while
+> building projects toward AI/ML. Learning mostly self-directed — documenting
+> the journey as I go. 🚀
 
 ---
 
