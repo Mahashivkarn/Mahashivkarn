@@ -72,14 +72,9 @@ Data Structures & Algorithms practice using C++.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahashivkarn&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<b>My GitHub Stats</b>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahashivkarn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+<a href="http://www.github.com/Mahashivkarn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahashivkarn&stroke=ffffff&background=171717&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ---
 
 ## 🎯 2026 Goals
