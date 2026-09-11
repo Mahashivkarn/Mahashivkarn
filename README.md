@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="photo-reveal.svg" width="260" alt="Dhruv Solanki" />
+<img src="photo-reveal (1).svg" width="260" alt="Dhruv Solanki" />
 
 # Hi 👋, I'm Dhruv Kumar Solanki
 
@@ -18,7 +18,7 @@
 ---
 
 ```bash
-~/dhruv $ cat about.txt
+
 ```
 > B.Tech CSE student sharpening Python, C++ and DSA fundamentals while
 > building projects toward AI/ML. Learning mostly self-directed — documenting
