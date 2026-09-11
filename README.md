@@ -71,18 +71,6 @@ Data Structures & Algorithms practice using C++.
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahashivkarn&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahashivkarn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Master DSA in C++
