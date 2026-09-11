@@ -87,7 +87,7 @@ Data Structures & Algorithms practice using C++.
 
 
 ## 📊 GitHub Stats
-
+<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mahashivkarn&theme=dark&hide_border=true&cache_seconds=0)
 ---
 
