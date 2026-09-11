@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kumar Solanki</h1>
 
 <img src="photo-reveal.svg" width="220" align="right" alt="Dhruv Solanki"/>
+
+
 <h3 align="center">
 B.Tech CSE Student | Aspiring AI/ML Developer
 </h3>
