@@ -5,7 +5,7 @@ B.Tech CSE Student | Aspiring AI/ML Developer
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dhruv-kumar-solanki">LinkedIn</a> •
   <a href="https://github.com/Mahashivkarn">GitHub</a>
 </p>
 
@@ -70,7 +70,6 @@ Data Structures & Algorithms practice using C++.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
