@@ -84,7 +84,6 @@ Data Structures & Algorithms practice using C++.
 - [ ] Build strong AI/ML fundamentals
 - [ ] Build multiple AI/ML projects
 - [ ] Learn Flask & APIs
-- [ ] Participate in SIH 2026
 - [ ] Secure an internship
 
 ---
