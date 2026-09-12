@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="photo-reveal (5).svg" width="260" alt="Dhruv Solanki" />
+<img src="photo-reveal (6).svg" width="260" alt="Dhruv Solanki" />
 
 # Hi 👋, I'm Dhruv Kumar Solanki
 
