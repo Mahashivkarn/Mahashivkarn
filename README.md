@@ -14,7 +14,13 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/solanki_d.hruv009_/)
+<p align="center">
 
+<a href="https://github.com/Mahashivkarn" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Mahashivkarn&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</a>
+
+</p>
 </div>
 
 ---
