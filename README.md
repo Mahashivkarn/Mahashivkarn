@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Dhruv Kumar Solanki
 
-### B.Tech CSE Student &nbsp;|&nbsp; Aspiring AI/ML Developer.
+### B.Tech CSE Student &nbsp;|&nbsp; Aspiring AI/ML Developer
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kumar-solanki/)
