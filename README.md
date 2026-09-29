@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 🎓 B.Tech CSE student — 3rd Semester
 
