@@ -2,7 +2,7 @@
 
 <img src="photo-reveal (6).svg" width="260" alt="Dhruv Solanki" />
 
-# Hi 👋, I'm Dhruv Kumar Solanki
+# Hi 👋, I'm Dhruv Kumar Solanki.
 
 ### B.Tech CSE Student &nbsp;|&nbsp; Aspiring AI/ML Developer
 
